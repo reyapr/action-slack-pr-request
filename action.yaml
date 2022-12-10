@@ -1,0 +1,14 @@
+name: 'PR Reminders'
+description: 'Greet someone and record the time'
+inputs:
+  slack-webhook-url:
+    description: 'webhook url'
+  pr-url:
+    description: 'pr url'
+  pr-reviewers:
+    description: 'pr-reviewers'
+  mapped-slack-user-id:
+    description: 'mapped_slack_user_id'
+runs:
+  using: 'node16'
+  main: 'main.js'

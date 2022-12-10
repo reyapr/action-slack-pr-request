@@ -1,0 +1,25 @@
+{
+  "name": "Client",
+  "version": "1.0.0",
+  "description": "add readme abdc",
+  "main": "output.js",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "axios": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARion-H8/Client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARion-H8/Client/issues"
+  },
+  "homepage": "https://github.com/ARion-H8/Client#readme"
+}
